@@ -1,2 +1,4 @@
 username=root
 password=123456
+
+今天星期三
